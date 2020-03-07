@@ -5,3 +5,9 @@
 -t 线程(不设置默认线程是20)
 ## 支持功能
 多线程、端口扫描、banner获取、cdn识别
+## 演示
+![image](https://github.com/ghtwf01/portscanner/blob/master/1.png)
+![image](https://github.com/ghtwf01/portscanner/blob/master/2.png)
+![image](https://github.com/ghtwf01/portscanner/blob/master/3.png)
+![image](https://github.com/ghtwf01/portscanner/blob/master/4.png)
+![image](https://github.com/ghtwf01/portscanner/blob/master/5.png)
